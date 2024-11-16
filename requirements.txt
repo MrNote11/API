@@ -1,0 +1,10 @@
+fastapi[all]
+psycopg[binary]
+psycopg[PyPy]
+psycopg
+psycopg2
+psycopg[pool]
+mysql
+mysql-connector
+mysql-connector-python
+sqlalchemy
